@@ -1,0 +1,20 @@
+{
+    "datapembelian": {
+        "data": [
+            {
+                "idpembelian": "1",
+                "idcustomer": "C001",
+                "tglpembelian": "2017-04-25",
+                "kodeproduk": "P002",
+                "jumlah": "3"
+            },
+            {
+                "idpembelian": "2",
+                "idcustomer": "C002",
+                "tglpembelian": "2017-04-20",
+                "kodeproduk": "P002",
+                "jumlah": "3"
+            }
+        ]
+    }
+}
